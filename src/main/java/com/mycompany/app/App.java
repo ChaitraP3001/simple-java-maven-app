@@ -11,7 +11,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
-        System.out.println("New MESSAGE");
+        System.out.println("New MESSAGE12312312");
     }
 
     public String getMessage() {
